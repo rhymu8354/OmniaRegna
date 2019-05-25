@@ -1,7 +1,7 @@
 # OmniaRegna
 
-Omnia Regna is an ever-evolving persistent online multiplayer fantasy
-role-playing game.  It is developed live on-stream by
+[Omnia Regna](https://omniaregna.com) is an ever-evolving persistent online
+multiplayer fantasy role-playing game.  It is developed live on-stream by
 [rhymu8354](https://www.twitch.tv/rhymu8354) on Twitch.TV.
 
 This repository is dedicated to tracking the issues, enhancement requests,
