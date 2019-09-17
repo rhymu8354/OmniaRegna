@@ -3,13 +3,13 @@
 Last update:  2019-09-16 ; [Version
 History](https://github.com/rhymu8354/OmniaRegna/commits/master/pp.md)
 
-**Omnia Regna** ("the game" or "in-game") is owned by **Digital Stirling
-Software, LLC** ("DSS") and operated by **DSS and its affiliates** ("we", "us",
+__Omnia Regna__ ("the game" or "in-game") is owned by __Digital Stirling
+Software, LLC__ ("DSS") and operated by __DSS and its affiliates__ ("we", "us",
 "our", or "ourselves").  We may be contacted via e-mail at
 [admin@omniaregna.com](mailto:admin@omniaregna.com).
 
-The **Omnia Regna Privacy Policy** ("this document") describes how we handle
-the personal information of **anyone who establishes an account in the game**
+The __Omnia Regna Privacy Policy__ ("this document") describes how we handle
+the personal information of __anyone who establishes an account in the game__
 ("you", "yourself", or "your").  Your privacy is important to us.  Our goal is
 to be completely transparent about what information we collect, what we do with
 it, with whom we share it, how long we keep it, and the mechanisms and policies
@@ -24,8 +24,8 @@ e-mail.
 
 ## Your Consent and Use of Services
 
-By logging into, downloading any part of, playing, or interacting with **the
-game or any web site or service owned by DSS which is related to the game**
+By logging into, downloading any part of, playing, or interacting with __the
+game or any web site or service owned by DSS which is related to the game__
 ("access", "access the game" or "accessing the game"), you are consenting to
 the terms of this document.  If you do not agree with the terms of this
 document, do not access the game.
@@ -56,8 +56,8 @@ linking feature or by logging in with Twitch (OpenID Connect implicit
 authorization flow), your Twitch ID, login name, and display name are collected
 and maintained in the primary record for your account.  We use this to allow
 you to log in with Twitch and to identify you in Twitch chat for the purposes
-of accounting **stream award points** ("points") and interacting with **the
-game's Twitch interface** ("Twitch bot" or "Golem") via Twitch chat.
+of accounting __stream award points__ ("points") and interacting with __the
+game's Twitch interface__ ("Twitch bot" or "Golem") via Twitch chat.
 
 Provided you have set an account password, you may unlink your account from
 Twitch using the in-game unlinking feature.  This removes your Twitch ID, login

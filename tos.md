@@ -3,40 +3,40 @@
 Last update:  2019-09-16 ; [Version
 History](https://github.com/rhymu8354/OmniaRegna/commits/master/tos.md)
 
-**Omnia Regna** ("the game" or "in-game") is owned by **Digital Stirling
-Software, LLC** ("DSS") and operated by **DSS and its affiliates** ("we", "us",
+__Omnia Regna__ ("the game" or "in-game") is owned by __Digital Stirling
+Software, LLC__ ("DSS") and operated by __DSS and its affiliates__ ("we", "us",
 "our", or "ourselves").  We may be contacted via e-mail at
 [admin@omniaregna.com](mailto:admin@omniaregna.com).
 
-The **Omnia Regna Terms of Service** ("this document") constitutes an agreement
+The __Omnia Regna Terms of Service__ ("this document") constitutes an agreement
 between you and DSS which governs your use of the game.  By logging into,
-downloading any part of, playing, or interacting with **the game or any web
-site or service owned by DSS which is related to the game** ("access", "access
+downloading any part of, playing, or interacting with __the game or any web
+site or service owned by DSS which is related to the game__ ("access", "access
 the game" or "accessing the game"), you are consenting to the terms of this
 document.  If you do not agree with the terms of this document, do not access
 the game.
 
 ## Definitions
 
-**Access** means to log into, download any part of, play, or interact with the
+__Access__ means to log into, download any part of, play, or interact with the
 game or any web site or service owned by DSS which is related to the game.
 
-**Game** refers to Omnia Regna, published online at <https://omniaregna.com>,
+__Game__ refers to Omnia Regna, published online at <https://omniaregna.com>,
 and any web site or service owned by DSS which is related to Omnia Regna.
 
-**Privacy Policy** refers to the Omnia Regna Privacy Policy, which describes
+__Privacy Policy__ refers to the Omnia Regna Privacy Policy, which describes
 how personal information is handled in the game.  The current version is
 available at <https://omniaregna.com/pp.pdf>.
 
-**Terms of Service** refers to this document.  The current version is available
+__Terms of Service__ refers to this document.  The current version is available
 at <https://omniaregna.com/tos.pdf>.
 
-**Twitch** refers to [twitch.tv](https://twitch.tv), a live streaming video
+__Twitch__ refers to [twitch.tv](https://twitch.tv), a live streaming video
 platform owned by Twitch Interactive, a subsidiary of Amazon.
 
-**User** means any individual not affiliated with DSS who accesses the game.
+__User__ means any individual not affiliated with DSS who accesses the game.
 
-**User Content** means any names, messages, or activities entered into the game
+__User Content__ means any names, messages, or activities entered into the game
 by users.  This includes messages sent between different users using any game
 feature such as but not limited to the in-game chat system.
 
@@ -117,8 +117,8 @@ into the game.
 ## Access Requirements
 
 You must be at least 13 years of age to agree to these terms of service and
-access the game.  **If you are under 13 years of age, you are not permitted to
-access the game.**  If you are a minor, you are required to obtain the consent
+access the game.  __If you are under 13 years of age, you are not permitted to
+access the game.__  If you are a minor, you are required to obtain the consent
 of a parent or legal guardian in order to be permitted to access the game.
 
 You must agree to the terms set forth in this document in order to access the
